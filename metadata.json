@@ -1,0 +1,9 @@
+{
+  "name": "GolfAPEX Integrated OS",
+  "description": "The first Integrated Operating System for golf, solving slow play and tournament friction through high-margin SaaS, FinTech, and AI-driven course management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
